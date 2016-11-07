@@ -1,0 +1,29 @@
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s1_test.txt GTEA61S_model/VERB_GTEA61S_S1_iter_6000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s2_test.txt GTEA61S_model/VERB_GTEA61S_S2_iter_6000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s3_test.txt GTEA61S_model/VERB_GTEA61S_S3_iter_6000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s4_test.txt GTEA61S_model/VERB_GTEA61S_S4_iter_6000.caffemodel GTEA61S_output/ 2
+
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s1_test.txt GTEA61S_model/VERB_GTEA61S_S1_iter_5000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s2_test.txt GTEA61S_model/VERB_GTEA61S_S2_iter_5000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s3_test.txt GTEA61S_model/VERB_GTEA61S_S3_iter_5000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s4_test.txt GTEA61S_model/VERB_GTEA61S_S4_iter_5000.caffemodel GTEA61S_output/ 2
+
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s1_test.txt GTEA61S_model/VERB_GTEA61S_S1_iter_4000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s2_test.txt GTEA61S_model/VERB_GTEA61S_S2_iter_4000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s3_test.txt GTEA61S_model/VERB_GTEA61S_S3_iter_4000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s4_test.txt GTEA61S_model/VERB_GTEA61S_S4_iter_4000.caffemodel GTEA61S_output/ 2
+
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s1_test.txt GTEA61S_model/VERB_GTEA61S_S1_iter_3000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s2_test.txt GTEA61S_model/VERB_GTEA61S_S2_iter_3000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s3_test.txt GTEA61S_model/VERB_GTEA61S_S3_iter_3000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s4_test.txt GTEA61S_model/VERB_GTEA61S_S4_iter_3000.caffemodel GTEA61S_output/ 2
+
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s1_test.txt GTEA61S_model/VERB_GTEA61S_S1_iter_2000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s2_test.txt GTEA61S_model/VERB_GTEA61S_S2_iter_2000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s3_test.txt GTEA61S_model/VERB_GTEA61S_S3_iter_2000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s4_test.txt GTEA61S_model/VERB_GTEA61S_S4_iter_2000.caffemodel GTEA61S_output/ 2
+
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s1_test.txt GTEA61S_model/VERB_GTEA61S_S1_iter_1000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s2_test.txt GTEA61S_model/VERB_GTEA61S_S2_iter_1000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s3_test.txt GTEA61S_model/VERB_GTEA61S_S3_iter_1000.caffemodel GTEA61S_output/ 2
+python run_model.py verb_deploy_gtea61s.prototxt GTEA61S_data/s4_test.txt GTEA61S_model/VERB_GTEA61S_S4_iter_1000.caffemodel GTEA61S_output/ 2

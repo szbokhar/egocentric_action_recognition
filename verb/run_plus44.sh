@@ -1,0 +1,19 @@
+python run_model.py verb_deploy_plus44.prototxt PLUS44_data/ahmad_test.txt PLUS44_model/VERB_PLUS44_AHMAD_iter_3000.caffemodel PLUS44_output/ 0
+python run_model.py verb_deploy_plus44.prototxt PLUS44_data/alireza_test.txt PLUS44_model/VERB_PLUS44_ALIREZA_iter_3000.caffemodel PLUS44_output/ 0
+python run_model.py verb_deploy_plus44.prototxt PLUS44_data/rahul_test.txt PLUS44_model/VERB_PLUS44_RAHUL_iter_3000.caffemodel PLUS44_output/ 0
+python run_model.py verb_deploy_plus44.prototxt PLUS44_data/carlos_test.txt PLUS44_model/VERB_PLUS44_CARLOS_iter_3000.caffemodel PLUS44_output/ 0
+
+python run_model.py verb_deploy_plus44.prototxt PLUS44_data/ahmad_test.txt PLUS44_model/VERB_PLUS44_AHMAD_iter_2000.caffemodel PLUS44_output/ 0
+python run_model.py verb_deploy_plus44.prototxt PLUS44_data/alireza_test.txt PLUS44_model/VERB_PLUS44_ALIREZA_iter_2000.caffemodel PLUS44_output/ 0
+python run_model.py verb_deploy_plus44.prototxt PLUS44_data/rahul_test.txt PLUS44_model/VERB_PLUS44_RAHUL_iter_2000.caffemodel PLUS44_output/ 0
+python run_model.py verb_deploy_plus44.prototxt PLUS44_data/carlos_test.txt PLUS44_model/VERB_PLUS44_CARLOS_iter_2000.caffemodel PLUS44_output/ 0
+
+python run_model.py verb_deploy_plus44.prototxt PLUS44_data/ahmad_test.txt PLUS44_model/VERB_PLUS44_AHMAD_iter_1000.caffemodel PLUS44_output/ 0
+python run_model.py verb_deploy_plus44.prototxt PLUS44_data/alireza_test.txt PLUS44_model/VERB_PLUS44_ALIREZA_iter_1000.caffemodel PLUS44_output/ 0
+python run_model.py verb_deploy_plus44.prototxt PLUS44_data/rahul_test.txt PLUS44_model/VERB_PLUS44_RAHUL_iter_1000.caffemodel PLUS44_output/ 0
+python run_model.py verb_deploy_plus44.prototxt PLUS44_data/carlos_test.txt PLUS44_model/VERB_PLUS44_CARLOS_iter_1000.caffemodel PLUS44_output/ 0
+
+
+
+
+

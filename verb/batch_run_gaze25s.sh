@@ -1,0 +1,3 @@
+python run_model.py verb_deploy_gaze25s.prototxt GAZE25S_data/G1_test.txt GAZE25S_model/VERB_GAZE25S_iter_3000.caffemodel GAZE25S_output/ 2
+python run_model.py verb_deploy_gaze25s.prototxt GAZE25S_data/G1_test.txt GAZE25S_model/VERB_GAZE25S_iter_2000.caffemodel GAZE25S_output/ 2
+python run_model.py verb_deploy_gaze25s.prototxt GAZE25S_data/G1_test.txt GAZE25S_model/VERB_GAZE25S_iter_1000.caffemodel GAZE25S_output/ 2

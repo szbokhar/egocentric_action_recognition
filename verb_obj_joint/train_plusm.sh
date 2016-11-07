@@ -1,0 +1,2 @@
+#!/bin/bash
+python verb_obj_joint_solve.py verb_obj_joint_train_plusm.prototxt ../verb/verb_deploy_plusm.prototxt ../obj/obj_cropped/obj_deploy_plusm.prototxt PLUSM_data/AHMAD_train.txt ../obj/obj_cropped/PLUSM_model/OBJ_PLUSM_AHMAD_iter_3000.caffemodel ../verb/PLUS44M_model/VERB_PLUS44M_AHMAD_iter_3000.caffemodel PLUSM_model/VERB_OBJ_PLUSM_AHMAD 10000 1 2>&1 | tee log/verb_obj_joint_solve_plusm_ahmad.log
